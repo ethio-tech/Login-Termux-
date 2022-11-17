@@ -1,0 +1,76 @@
+&#x0;&#x0;&#x0;&#x0;���]!&#x0;&#x0;�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;@&#x0;&#x0;&#x0;s�&#x0;&#x0;&#x0;d&#x0;dl&#x0;Z&#x0;d&#x0;dlmZ&#x0;d&#x0;dlZdZdZdZdZdZdZd        Z        d 
+ Z 
+ dd�&#x0;Zd d�&#x0;Zdd�&#x0;Z dd�&#x0;Zdd�&#x0;Zdd�&#x0;Zdd�&#x0;Zedkr�e�&#x0;&#x0;dS&#x0;)�&#x0;&#x0;&#x0;&#x0;N)�getpassz 
+ .creed.txtz[1;91mz[1;92m�[1;93mz[1;94mz[1;95mz[1;96mz[1;97mc&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;t&#x0;j�t�rt�&#x0;&#x0;nt�&#x0;&#x0;d&#x0;S&#x0;)N)�os�path�isfile�cread�login�singup�&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;�login.py�setup&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s 
+ &#x0;&#x0;�zPt&#x0;�&#x0;&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;td�&#x0;t�d�&#x0;td�&#x0;ttd&#x0;�&#x0;td�&#x0;ttd��}&#x0;td        �}td�&#x0;ttd 
+ &#x0;�}td�&#x0;tt        d&#x0;�&#x0;td�&#x0;td�}|dks�|�r,t 
+ td ��d}|�|&#x0;�&#x0;|�d�&#x0;|�|�&#x0;|�d�&#x0;|�|�&#x0;|� �&#x0;&#x0;td�&#x0;tt        d&#x0;�&#x0;t�d�&#x0;t�&#x0;&#x0;W&#x0;5&#x0;Q&#x0;R&#x0;X&#x0;n$td�&#x0;ttd&#x0;�&#x0;t�d�&#x0;t�&#x0;&#x0;W&#x0;n�&#x0;tk 
+ �r�&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;t�d�&#x0;t�d�&#x0;Y&#x0;nZ&#x0;tk 
+ �r&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;t�d�&#x0;t�d�&#x0;Y&#x0;nX&#x0;d&#x0;S&#x0;)N�          Welcome to Termux �!---------------------------------�          CREATED BY HTR TECH �&#x0;� date | lolcatr&#x0;&#x0;&#x0;�&SET USERNAME,PASSWORD AND RECOVERY KEYz[1;96mUsername [1;92m: z[1;96mPassword [1;92m: �Enter a Recovery key [1;92m: �H[+] Remember your recovery key.Without it you can't change username/pass�'[1;94mIf you agree hit Enter [1;94m: �w� 
+ �DONE ! Initializing ...�&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;�?�     Wrong Input皙�����?z9[1;91m     UABLE TO SET THE USERNAME, PASSWORD, RECOVERY�333333�?�killall -9 com.termux)�clear�print�green�cyan�yellowr&#x0;&#x0;&#x0;�system�str�input�blue�openr&#x0;&#x0;&#x0;�write�close�time�sleep�exit�redr        &#x0;&#x0;&#x0;�        Exception�KeyboardInterrupt�ZusernameZpasswordZrecovery�x�fr 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;sh&#x0;&#x0;&#x0;&#x0; 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ r        &#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;�zXt&#x0;�&#x0;&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;td�&#x0;t�d�&#x0;td�&#x0;ttd&#x0;�&#x0;td�&#x0;tttd&#x0;��}&#x0;ttd        &#x0;�}td�&#x0;ttd 
+ &#x0;�}td�&#x0;tt        d&#x0;�&#x0;td�&#x0;td�}|dks�|�r4t 
+ td ��d}|�|&#x0;�&#x0;|�d�&#x0;|�|�&#x0;|�d�&#x0;|�|�&#x0;|� �&#x0;&#x0;td�&#x0;tt        d&#x0;�&#x0;t�d�&#x0;t�&#x0;&#x0;W&#x0;5&#x0;Q&#x0;R&#x0;X&#x0;n$td�&#x0;ttd&#x0;�&#x0;t�d�&#x0;t�&#x0;&#x0;W&#x0;n�&#x0;tk 
+ �r�&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;t�d�&#x0;t�d�&#x0;Y&#x0;nZ&#x0;tk 
+ �r&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;t�d�&#x0;t�d�&#x0;Y&#x0;nX&#x0;d&#x0;S&#x0;)Nr &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�Username [1;92m: zPassword [1;92m: r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;z<[1;91m     UABLE TO CHANGE THE USERNAME, PASSWORD, RECOVERYr&#x0;&#x0;&#x0;)r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r!&#x0;&#x0;&#x0;r"&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r#&#x0;&#x0;&#x0;r$&#x0;&#x0;&#x0;r%&#x0;&#x0;&#x0;r&&#x0;&#x0;&#x0;r'&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r(&#x0;&#x0;&#x0;r)&#x0;&#x0;&#x0;r*&#x0;&#x0;&#x0;r+&#x0;&#x0;&#x0;r,&#x0;&#x0;&#x0;r-&#x0;&#x0;&#x0;� 
+ singup_oner.&#x0;&#x0;&#x0;r/&#x0;&#x0;&#x0;r0&#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r4&#x0;&#x0;&#x0;N&#x0;&#x0;&#x0;sh&#x0;&#x0;&#x0;&#x0; 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ r4&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s*&#x0;&#x0;t&#x0;�&#x0;&#x0;zxttd&#x0;�&#x0;ttd&#x0;�}&#x0;ttd��}|��&#x0;}|d&#x0;��&#x0;}W&#x0;5&#x0;Q&#x0;R&#x0;X&#x0;|&#x0;|krZt        �&#x0;&#x0;n"td�&#x0;tt 
+ d&#x0;�&#x0;t�d�&#x0;W&#x0;q&#x0;W&#x0;q&#x0;&#x0;t k 
+ r�&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;tt 
+ d        &#x0;�&#x0;t�d 
+ �&#x0;Y&#x0;q&#x0;&#x0;tk 
+ �r"&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;tt 
+ d&#x0;�&#x0;t�d 
+ �&#x0;Y&#x0;q&#x0;X&#x0;q&#x0;d&#x0;S&#x0;)Nz8[+] TO CHANGE THE PASSWORD PLEASE ENTER THE RECOVERY KEYz  
+ Enter your Recovery [1;92m: �r�&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;z    Invalid Recovery Keyr&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;z    Wrong Inputr&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;)r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r!&#x0;&#x0;&#x0;r'&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�        readlines�rstripr4&#x0;&#x0;&#x0;r-&#x0;&#x0;&#x0;r*&#x0;&#x0;&#x0;r+&#x0;&#x0;&#x0;r.&#x0;&#x0;&#x0;r/&#x0;&#x0;&#x0;)ZrecZfi�dataZrecor 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�change�&#x0;&#x0;&#x0;s:&#x0;&#x0;&#x0;&#x0; 
+ r:&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;        &#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s�&#x0;&#x0;t&#x0;�&#x0;&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;ttd&#x0;�&#x0;td�&#x0;t�d�&#x0;td�&#x0;ttd&#x0;�&#x0;td�&#x0;ttd��.}&#x0;|&#x0;�        �&#x0;}|d        &#x0;� 
+ �&#x0;}|d 
+ &#x0;� 
+ �&#x0;}|&#x0;��&#x0;&#x0;W&#x0;5&#x0;Q&#x0;R&#x0;X&#x0;z�ttd&#x0;�}td�&#x0;t td &#x0;�}||kr�||kr�td�&#x0;ttd&#x0;|d�&#x0;t�d�&#x0;t&#x0;�&#x0;&#x0;W&#x0;�q�n:|dk�s|dk�rt�&#x0;&#x0;ntd�&#x0;ttd&#x0;�&#x0;t�d�&#x0;W&#x0;q&#x0;&#x0;tk 
+ �r�&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;ttd&#x0;�&#x0;t�d�&#x0;Y&#x0;q&#x0;&#x0;tk 
+ �r�&#x0;&#x0;&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;td�&#x0;ttd&#x0;�&#x0;t�d�&#x0;Y&#x0;q&#x0;X&#x0;q&#x0;d&#x0;S&#x0;)Nz          Termux Login Script r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;z<[+] To change password type "change" in username or passwordz[1;93m r5&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;r3&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;zPassword [1;92: z 
+  WELCOME ==> z[0mr&#x0;&#x0;&#x0;r:&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;)r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r!&#x0;&#x0;&#x0;r"&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r#&#x0;&#x0;&#x0;r'&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r7&#x0;&#x0;&#x0;r8&#x0;&#x0;&#x0;r)&#x0;&#x0;&#x0;r%&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r*&#x0;&#x0;&#x0;r+&#x0;&#x0;&#x0;r:&#x0;&#x0;&#x0;r-&#x0;&#x0;&#x0;r.&#x0;&#x0;&#x0;r/&#x0;&#x0;&#x0;)Zflr9&#x0;&#x0;&#x0;�unameZpwordr&#x0;&#x0;&#x0;Zlogin2r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;s\&#x0;&#x0;&#x0;&#x0; 
+  
+ r&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;t&#x0;�d�&#x0;d&#x0;S&#x0;)Nr&#x0;&#x0;&#x0;�r&#x0;&#x0;&#x0;r#&#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;c&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;C&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;t&#x0;�d�&#x0;d&#x0;S&#x0;)Nr&#x0;&#x0;&#x0;r=&#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r,&#x0;&#x0;&#x0;�&#x0;&#x0;&#x0;s&#x0;&#x0;&#x0;&#x0;r,&#x0;&#x0;&#x0;�__main__)r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r*&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r-&#x0;&#x0;&#x0;r &#x0;&#x0;&#x0;r"&#x0;&#x0;&#x0;r&&#x0;&#x0;&#x0;Zpurpler!&#x0;&#x0;&#x0;Zwhiter&#x0;&#x0;&#x0;r        &#x0;&#x0;&#x0;r4&#x0;&#x0;&#x0;r:&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;r,&#x0;&#x0;&#x0;�__name__r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r 
+ &#x0;&#x0;&#x0;r&#x0;&#x0;&#x0;�<module>&#x0;&#x0;&#x0;s&&#x0;&#x0;&#x0;88"4
+
+
+
